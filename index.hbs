@@ -1,5 +1,9 @@
 ---
 layout: layout.hbs
 ---
-
-<h1>{{title}}</h1>
+<h2>Primeros platos</h2>
+<ul>
+  {{#each primeros}}
+  <li><a href="primeros/{{slug this.title}}">{{this.title}}</a></li>
+  {{/each}}
+</ul>

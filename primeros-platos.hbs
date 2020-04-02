@@ -1,0 +1,28 @@
+---
+layout: layout.hbs
+pagination:
+  data: primeros
+  size: 1
+  alias: primero
+permalink: "primeros/{{ slug primero.title }}/"
+---
+
+<h1>{{primero.title}}</h1>
+
+<h2>Ingredientes</h2>
+<ul>
+  {{#each primero.ingredients}}
+  <li>{{this}}</li>
+  {{/each}}
+</ul>
+
+<h2>Pasos</h2>
+<ol>
+  {{#each primero.steps}}
+  <li>{{this}}</li>
+  {{/each}}
+</ol>
+
+{{#if primero.footnote}}
+<p>{{primero.footnote}}</p>
+{{/if}}
