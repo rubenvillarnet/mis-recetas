@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Albóndigas",
+        "ingredients": [
+            "500 gr. de carne picada mixta.",
+            "1 huevo",
+            "2 rebanadas de pan bimbo sin corteza",
+            "Leche",
+            "Ajo seco",
+            "Perejil seco"
+        ],
+        "steps": [
+            "Empapar la miga de pan en leche.",
+            "Poner toda la carne en un bol y echar sal, ajo, perejil, el huevo sin batir, y la miga de pan mojada con la leche, (incluso se puede añadir un poquito más de leche para que queden más jugosas).",
+            "Envolver muy, muy bien la carne. Dejar reposar el conjunto un ratillo.",
+            "Hacemos las albóndigas, con esta cantidad salen unas 25.",
+            "Cogemos trozos de la masa, los pasamos por harina, hacemos bolas y se fríen en la sartén con bastante aceite. Así se sellarán por fuera.",
+            "Se van sacando a una cazuela. Cuando ya estén todas bien fritas, se añade el tomate (mejor si es casero) y se las deja a fuego medio-bajo un ratito con la tapa puesta para que se cocinen por dentro."
+        ]
+    },
+    {
+        "title": "Alitas de pollo a la cerveza",
+        "ingredients": [
+            "8 alitas de pollo completas",
+            "1⁄2 cebolla",
+            "1 lata de cerveza"
+        ],
+        "steps": [
+            "Picar la cebolla y pocharla en una cazuela.",
+            "Separar las alas en dos trozos cada una (alita y jamoncito). Salar.",
+            "Dorar en la cazuela las alas, que cojan buen color.",
+            "Añadir la cerveza y dejar que cueza despacito, con la tapa puesta, hasta que estén bien hechas."
+        ]
+    }
+]

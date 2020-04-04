@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="mb-4">
+  <h2>Postres</h2>
+  <ul class="list-group">
+    {{#each postres}}
+    <li class="list-group-item"><a href="postres/{{slug this.title}}">{{this.title}}</a></li>
+    {{/each}}
+  </ul>
+</div>

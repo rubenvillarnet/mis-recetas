@@ -1,19 +1,10 @@
----
-layout: default
-pagination:
-  data: primeros
-  size: 1
-  alias: primero
-permalink: "primeros/{{ slug primero.title }}/"
----
-
-<h2 class="border-bottom mb-4">{{primero.title}}</h2>
+<h2 class="border-bottom mb-4">{{recipe.title}}</h2>
 
 <div class="row">
   <div class="col-12 col-md-3">
 <h3 class="h4">Ingredientes</h3>
 <ul>
-  {{#each primero.ingredients}}
+  {{#each recipe.ingredients}}
   <li class="mb-2">{{this}}</li>
   {{/each}}
 </ul>
@@ -22,7 +13,7 @@ permalink: "primeros/{{ slug primero.title }}/"
   <div class="col">
 <h3 class="h4">Pasos</h3>
 <ol>
-  {{#each primero.steps}}
+  {{#each recipe.steps}}
   <li class="mb-3">{{this}}</li>
   {{/each}}
 </ol>
@@ -31,8 +22,8 @@ permalink: "primeros/{{ slug primero.title }}/"
 
 
 
-{{#if primero.footnote}}
+{{#if recipe.footnote}}
 <div class="alert alert-primary">
-<p>{{primero.footnote}}</p>
+<p>{{recipe.footnote}}</p>
 </div>
 {{/if}}

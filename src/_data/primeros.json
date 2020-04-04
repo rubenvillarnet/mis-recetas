@@ -1,38 +1,128 @@
 [
-  {
-    "title": "Alcachofas - Ru style",
-    "ingredients": [
-      "2 botes de alcachofas",
-      "1 cebolla",
-      "Minitaquitos de jamón",
-      "Harina",
-      "Aceite"
-    ],
-    "steps": [
-      "Se corta la cebolla en juliana y se pocha en una sartén. Cuando esté pochada se quita aceite (casi todo).",
-      "Se abren los botes de alcachofas y reservamos el líquido. Partimos las alcachofas por la mitad. Se añaden ahora las alcachofas a la cebolla con la parte cortada hacia abajo.",
-      "Se añade el agua de las alcachofas y media cucharadita de harina tamizada, para que no queden grumos, y espese un poco la salsa. Se añaden los tacos de jamón y se deja un par de minutos."
-    ],
-    "footnote": "No se añade sal, el jamón y las alcachofas con el caldo ya llevan sal."
-  },
-  {
-    "title": "Pastel de puerros",
-    "ingredients": [
-      "6 puerros",
-      "Mantequilla o aceite",
-      "Jamón York",
-      "1 cucharada de harina",
-      "2 yemas de huevo",
-      "1/4 de nata de cocinar",
-      "1 o 2 planchas de hojaldre",
-      "Sal",
-      "Pimienta"
-    ],
-    "steps": [
-      "Limpiar los puerros: quitamos las raíces, se quita 1 o 2 láminas enteras y la parte verde oscura no se aprovecha mucho. Se abre cada puerro en cruz hasta la mitad y se lava bajo el grifo, ya que tienen tierra. Se cortan en rodajas.",
-      "Se pone al fuego un cazo con agua y sal; cuando hierva se echa el puerro, se tiene 15 minutos hirviendo. Entonces se saca y se escurre bien.",
-      "En una sartén se echa aceite, y se saltean los puerros. Se echa una cucharada de harina (para que se haga un poco de besamel con la nata de después). Habiendo mezclado aparte la nata con las yemas, se mezcla con los puerros en la sartén. Se salpimenta, y se deja que cuaje un poco. Se añade el jamón muy troceado. Se deja enfriar.",
-      "En una bandejita de aluminio, se extiende el hojaldre (paredes y suelo). Se pone el relleno dentro. Se tapa con otra lámina de hojaldre, se unta con huevo batido, o con las claras, y se adorna a gusto. Se hornea a 180º unos 20 o 30 minutos, con el horno previamente precalentado."
-    ]
-  }
+    {
+        "title": "Alcachofas - Ru style",
+        "ingredients": [
+            "2 botes de alcachofas",
+            "1 cebolla",
+            "Minitaquitos de jamón",
+            "Harina",
+            "Aceite"
+        ],
+        "steps": [
+            "Se corta la cebolla en juliana y se pocha en una sartén. Cuando esté pochada se quita aceite (casi todo).",
+            "Se abren los botes de alcachofas y reservamos el líquido. Partimos las alcachofas por la mitad. Se añaden ahora las alcachofas a la cebolla con la parte cortada hacia abajo.",
+            "Se añade el agua de las alcachofas y media cucharadita de harina tamizada, para que no queden grumos, y espese un poco la salsa. Se añaden los tacos de jamón y se deja un par de minutos."
+        ],
+        "footnote": "No se añade sal, el jamón y las alcachofas con el caldo ya llevan sal."
+    },
+    {
+        "title": "Pastel de puerros",
+        "ingredients": [
+            "6 puerros",
+            "Mantequilla o aceite",
+            "Jamón York",
+            "1 cucharada de harina",
+            "2 yemas de huevo",
+            "1/4 de nata de cocinar",
+            "1 o 2 planchas de hojaldre",
+            "Sal",
+            "Pimienta"
+        ],
+        "steps": [
+            "Limpiar los puerros: quitamos las raíces, se quita 1 o 2 láminas enteras y la parte verde oscura no se aprovecha mucho. Se abre cada puerro en cruz hasta la mitad y se lava bajo el grifo, ya que tienen tierra. Se cortan en rodajas.",
+            "Se pone al fuego un cazo con agua y sal; cuando hierva se echa el puerro, se tiene 15 minutos hirviendo. Entonces se saca y se escurre bien.",
+            "En una sartén se echa aceite, y se saltean los puerros. Se echa una cucharada de harina (para que se haga un poco de besamel con la nata de después). Habiendo mezclado a parte la nata con las yemas, se mezcla con los puerros en la sartén. Se salpimenta, y se deja que cuaje un poco. Se añade el jamón muy troceado. Se deja enfriar.",
+            "En una bandejita de aluminio, se extiende el hojaldre (paredes y suelo). Se pone el relleno dentro. Se tapa con otra lámina de hojaldre, se unta con huevo batido, o con las claras, y se adorna a gusto. Se hornea a 180º unos 20 o 30 minutos, con el horno previamente precalentado."
+        ]
+    },
+    {
+        "title": "Albóndigas de morcilla",
+        "ingredients": [
+            "morcilla",
+            "1 huevo",
+            "Almendras picadas o molidas",
+            "Piñones picados",
+            "Harina",
+            "Aceite"
+        ],
+        "steps": [
+            "Deshacer la morcilla y quitar impurezas (trozos ligosos, sangre...).",
+            "Añadir un huevo, los piñones y las almendras. Se amasa como si fueran albóndigas. Se hacen bolitas, se pasan por harina y se fríen"
+        ]
+    },
+    {
+        "title": "Alcachofas (versión mamá)",
+        "ingredients": [
+            "8 alcachofas frescas",
+            "1⁄2 limón",
+            "Sal",
+            "Aliño (bacón, jamón, ajos... al gusto)"
+        ],
+        "steps": [
+            "Para limpiar las alcachofas es importante usar guantes de latex, porque si no se quedan las manos negras y amargas. Se quitan las hojas feas de fuera y se desecha la punta; se separa el rabo y se pela; se abren por la mitad. Se lavan con agua.",
+            "Mientras, la olla está al fuego con agua y sal, y el zumo de medio limón. Cuando hierva el agua, echar las alcachofas y los rabos. Dejar durante 20 minutos con presión.",
+            "Luego se pueden arreglar con ajos, aceite crudo, jamón, bacon, o guisadas: se hace a parte el jamón con ajos, por ejemplo, y se añade a las alcachofas una vez tirado el agua de cocerlas.",
+            "Se deja que dé junto un hervor, y estaría listo."
+        ]
+    },
+    {
+        "title": "Arroz con picadillo para dos",
+        "ingredientes": [
+            "3⁄4 de un vaso de agua de arroz bomba",
+            "1⁄2 cebolla",
+            "1 choricillo fresco (opcional)",
+            "200gr. de picadillo",
+            "1⁄2 pastilla de avecrem",
+            "aceite"
+        ],
+        "steps": [
+            "Poner aceite en la cazuela y sofreír la cebolla, muy picadita. Añadir el chorizo picado y el picadillo, y sofreír.",
+            "Añadir el arroz y remover. Añadir el doble de agua que de arroz, echar avecrem, remover todo y dejarlo cocinar a fuego lento. No mover el arroz mientas se está haciendo.",
+            "Si evapora el agua y el arroz no está hecho, añadir un poco más.",
+            "Tarda en evaporarse el agua y estar hecho unos 30-40 minutos."
+        ]
+    },
+
+    {
+        "title": "Ensaladilla rusa",
+        "ingredientes": [
+            "3 patatas medianas",
+            "3 zanahorias pequeñas",
+            "4 huevos",
+            "3 palitos de cangrejo (surimi)",
+            "Aceitunas",
+            "Guisantes",
+            "2 latillas de atún al natural",
+            "Mayonesa, ¡mejor casera!"
+        ],
+        "steps": [
+            "Lavar las patatas, las zanahorias y los huevos y poner a cocer.",
+            "Retirar los huevos tras 10 – 15 minutos hirviendo. Las patatas y las zanahorias, cuando al pincharlas estén blandas.",
+            "Apartar para decorar: las yemas de los 4 huevos y un huevo entero, algunas aceitunas, guisantes,... al gusto.",
+            "Picar en cuadraditos pequeños las patatas y las zanahorias, y también las claras de 3 de los huevos.",
+            "Picar también el surimi, las aceitunas, desmigar el atún, y añadir los guisantes.",
+            "Mezclar todo bien, y añadir mayonesa al gusto.",
+            "Colocar en una fuente y cubrir con mayonesa, y decorar al gusto."
+        ]
+    },
+    {
+        "title": "Gazpacho de cerezas",
+        "ingredientes": [
+            "150 gr. de cerezas",
+            "picotas",
+            "6 tomates (pera, por ejemplo)",
+            "1 cebolla tierna",
+            "1 pimiento verde pequeño",
+            "Aceite",
+            "sal"
+        ],
+        "steps": [
+            "Deshuesar las picotas.",
+            "Pelas los tomates y limpiar la cebolla y el pimiento.",
+            "Añadir todo al vaso picador de la batidora.",
+            "Picar bien. Colar y ayudándose de un cazo para que vaya cayendo todo.",
+            "Se puede rectificar de sal después."
+        ],
+        "footnote": "Con esas cantidades han salido 666gr. Da para 3 raciones de 222gr. cada una."
+    }
 ]

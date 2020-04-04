@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Arroz con leche en olla express",
+        "ingredients para 4 raciones": [
+            "200 gr. de arroz",
+            "100 gr. de azucar",
+            "3/4 de litro de leche",
+            "ramita de canela",
+            "corteza de limón"
+        ],
+        "steps": [
+            "Poner todos los ingredientes en la olla, y remover",
+            "Cerrar la olla y poner a fuego medio-alto",
+            "Desde que coja presión, dejar 5 minutos con la presión",
+            "Apagar el fuego pero no retirar, y dejar otros 5 minutos",
+            "Retirar del fuego y no abrir aún, 5 minutos más",
+            "Abrir bajo el grigo, si no ha bajado la válvula"
+        ]
+    }
+]
