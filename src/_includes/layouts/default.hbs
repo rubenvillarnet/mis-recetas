@@ -1,13 +1,22 @@
 {{> shared/header }}
 <div class="jumbotron fliud-jumbotron">
+  <div class="container">
+    <h1 class="display-4"><a href="/">{{site.title}}</a></h1>
+    <p class="lead">{{site.description}}</p>
+    <ul class="nav">
+      <li class="nav-item">
+        <a href="/primeros" class="nav-link">Primeros platos</a>
+      </li>
+      <li class="nav-item">
+        <a href="/segundos" class="nav-link">Segundos platos</a>
+      </li>
+      <li class="nav-item">
+        <a href="/postres" class="nav-link">Postres</a>
+      </li>
+    </ul>
+  </div>
+</div>
 <div class="container">
-<h1 class="display-4"><a href="/">{{site.title}}</a></h1>
-<p class="lead">{{site.description}}</p>
+  {{{ content }}}
 </div>
-
-</div>
-<div class="container">
-{{{ content }}}
-</div>
-  
 {{> shared/footer }}
