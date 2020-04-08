@@ -3,29 +3,14 @@ layout: default
 ---
 <div class="row">
   <div class="mb-4 col-12 col-lg-4">
-    <h2>Primeros platos</h2>
-    <ul class="list-group">
-      {{#each primeros}}
-      <li class="list-group-item"><a href="primeros/{{slug this.title}}">{{this.title}}</a></li>
-      {{/each}}
-    </ul>
+    {{> shared/list header="Primeros platos" list=primeros path=site.paths.primeros}}
   </div>
 
   <div class="mb-4 col-12 col-lg-4">
-    <h2>Segundos platos</h2>
-    <ul class="list-group">
-      {{#each segundos}}
-      <li class="list-group-item"><a href="segundos/{{slug this.title}}">{{this.title}}</a></li>
-      {{/each}}
-    </ul>
+    {{> shared/list header="Segundos platos" list=segundos path=site.paths.segundos}}
   </div>
 
   <div class="mb-4 col-12 col-lg-4">
-    <h2>Postres</h2>
-    <ul class="list-group">
-      {{#each postres}}
-      <li class="list-group-item"><a href="postres/{{slug this.title}}">{{this.title}}</a></li>
-      {{/each}}
-    </ul>
+    {{> shared/list header="Postres" list=postres path=site.paths.postres}}
   </div>
 </div>

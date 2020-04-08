@@ -1,4 +1,9 @@
 {
-  "title": "Mis Recetas",
-  "description": "Este es nuestro libro de recetas, que hemos ido recopilando con los años"
+    "title": "Mis Recetas",
+    "description": "Este es nuestro libro de recetas, que hemos ido recopilando con los años.",
+    "paths": {
+        "primeros": "primeros-platos",
+        "segundos": "segundos-platos",
+        "postres": "postres"
+    }
 }
