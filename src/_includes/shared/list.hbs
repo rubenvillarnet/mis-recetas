@@ -1,10 +1,6 @@
 <h2>{{header}} <span class="badge badge-pill badge-primary">{{list.length}}</span></h2>
     <ul class="list-group">
       {{#each list}}
-        {{#if ../path}}
-          <li class="list-group-item"><a href="{{../path}}/{{slug this.title}}">{{this.title}}</a></li>
-        {{else}}
-          <li class="list-group-item"><a href="{{slug this.title}}">{{this.title}}</a></li>
-        {{/if}}
+        <li class="list-group-item"><a href="{{../path}}/{{slug this.title}}">{{this.title}}</a></li>
       {{/each}}
     </ul>
