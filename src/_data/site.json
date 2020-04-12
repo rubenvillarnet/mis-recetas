@@ -4,6 +4,7 @@
     "paths": {
         "primeros": "primeros-platos",
         "segundos": "segundos-platos",
-        "postres": "postres"
+        "postres": "postres",
+        "salsas": "salsas"
     }
 }
