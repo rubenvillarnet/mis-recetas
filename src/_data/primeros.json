@@ -472,5 +472,53 @@
       "Echar en la olla 4 tapers de los blancos (comida china) de agua, y agregar todos los ingredientes; la verdura bien picada.",
       "Tener en la olla con presión unos 20 minutos."
     ]
+  },
+  {
+    "title": "sopas de ajo",
+    "ingredients": [
+      "4 ajos",
+      "1 choricillo fresco",
+      "150 gr. de pan de ayer",
+      "1 huevo, o más",
+      "aceite",
+      "sal (opcional)",
+      "Pimentón dulce",
+      "1 litro de agua y una pastilla de avecrem, o 1 litro de caldo de pollo"
+    ],
+    "steps": [
+      "Cubrir toda la base dela cazuela de aceite",
+      "Añadir los ajos laminados",
+      "cuando empiecen a 'bailar' un poco, añadir el chorizo muy picado",
+      "Antes de que el ajo coja demasiado color, añadir el pan en rodajas finas (1 cm.), y se remueve bien, para que coja el sabor",
+      "Añadir una cucharadita de pimentón dulce y seguir rehogando",
+      "añadir el agua y la pastilla de avecrem en trocitos",
+      "Dejar hervir 20 minutos a fuego medio",
+      "cuando pase este tiempo es el momento de corregir de sal. Con el chorizo y el avecrem no suele hacer falta añadir más",
+      "añadir un huevo batido, remover, y dejar tres minutos.",
+      "se puede añadir también un huevo sin batir por persona, se deja cocinar 3 minutos"
+    ]
+  },
+  {
+    "title": "Paella de carne y verduras",
+    "ingredients": [
+      "vaso y medio de arroz",
+      "media cebolla",
+      "2 tomates de rama",
+      "1/4 pimiento verde",
+      "alubias verdes",
+      "un poco de carne de pollo",
+      "un poco de carne de cerdo",
+      "un par de lonchas de bacon adobado",
+      "un choricillo",
+      "pastilla de avecrem"
+    ],
+    "steps": [
+      "Poner bastante aceite en el fondo de la cazuela, y sofreir las verduras picadas, primero la cebolla, luego el pimiento, y luego el tomate.",
+      "Cuando estén, añadir la carne, de ingrediente en ingrediente, picado (admite la carne que se quiera).",
+      "Añadir una pastilla de avecrem y deshacerla bien.",
+      "Añadir el arroz, y darlo vueltas con el resto de ingredientes, que se mezclen bien los sabores.",
+      "Añadir el doble de agua que de arroz, y dejar que hierva a fuego medio-bajo."
+    ],
+    "ingredientsLabel": "Salen 6 raciones"
   }
 ]
