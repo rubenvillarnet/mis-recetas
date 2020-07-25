@@ -15,7 +15,8 @@
       "Apagar el fuego pero no retirar, y dejar otros 5 minutos.",
       "Retirar del fuego y no abrir aún, 5 minutos más.",
       "Abrir bajo el grifo, si no ha bajado la válvula."
-    ]
+    ],
+    "image": "arroz-leche.jpeg"
   },
   {
     "title": "Arroz con leche",
@@ -186,7 +187,8 @@
       "En sartén antiadherente, manchándola con un poquito de mantequilla o aceite, antes deshacer cada crep.",
       "Echar el preparado con un cacito y extenderlo en la sartén. Dorar por los dos lados.",
       "Rellenar al gusto: chocolate, nocilla, sirope, york – queso, etc..."
-    ]
+    ],
+    "image": "crepes.jpeg"
   },
   {
     "title": "Crepes de cacao",
@@ -338,7 +340,8 @@
     "steps": [
       "Machacar el plátano con el tenedor y agregar todos los ingredientes menos los chips.",
       "Hacer a la plancha y agregar los chips solo por un lado cuando estén en la plancha."
-    ]
+    ],
+    "image": "pancakes-platano.jpeg"
   },
   {
     "title": "Mermelada de calabaza",
@@ -373,7 +376,8 @@
       "Poner dos minutos en el microondas a máxima potencia.",
       "Dejar reposar dos minutos antes de comer"
     ],
-    "footnote": "Es más comodo hacerlo en un bol a parte, y luego echarlo en la taza. Si no, en la taza cuesta bastante deshacer bien los ingredientes"
+    "footnote": "Es más comodo hacerlo en un bol a parte, y luego echarlo en la taza. Si no, en la taza cuesta bastante deshacer bien los ingredientes",
+    "image": "mug-cake-brownie.jpeg"
   },
   {
     "title": "Mug cake de Nutella",

@@ -66,7 +66,8 @@
       "Se echa agua, que se cubra un poco la carne. Se cierra la olla y se tiene 20 minutos con presión.",
       "Si cuando abra la olla, la carne está ya tierna pero hay mucho caldo, éste se puede espesar con un poco de maicena así: En una taza echar agua fría y una puntita de maicena (dependiendo de la cantidad de salsa aguada). Pones la olla al fuego y en un ladito donde haya salsa vas añadiendo el agua con maicena, removiendo continuamente.",
       "Si resulta que la carne no está tierna, se vuelve a cerrar y que hierva otro rato"
-    ]
+    ],
+    "image": "carne-nerviosa.jpeg"
   },
   {
     "title": "Carillada",
@@ -75,10 +76,10 @@
       "2 o 3 dientes de ajo",
       "1⁄2 o 1 cebolla",
       "1⁄2 pimiento verde",
+      "Zanahorias",
       "Aceite",
       "Sal",
-      "2 ñoras o pimiento choricero",
-      "zanahorias"
+      "2 ñoras o pimiento choricero"
     ],
     "steps": [
       "Si las carrilladas son de ternera hay que ponerla a hervir o en agua fría un rato para que suelte la sangre. Dejarla enfriar, limpiarla y partirla en trocitos.",
@@ -88,10 +89,11 @@
       "Se tiene 20 o 30 minutos con presión.",
       "Cuando se abra la olla, si está la carne tierna, se va pasando la carne a una cazulela, y la salsa por el pasapurés sobre ella. Si no está tierna, se cierra la olla y se tiene un rato más."
     ],
-    "footnote": "en vez de pasapurés se puede utilizar batidora, pero no queda igual."
+    "footnote": "en vez de pasapurés se puede utilizar batidora, pero no queda igual.",
+    "image": "carrillada.jpeg"
   },
   {
-    "title": "chipirones rellenos en su tinta",
+    "title": "Chipirones rellenos en su tinta",
     "ingredientsLabel": "para 5 raciones",
     "ingredients": [
       "20 chipirones",
@@ -148,7 +150,7 @@
     ]
   },
   {
-    "title": "costillar al horno con cocacola",
+    "title": "Costillar al horno con cocacola",
     "ingredients": [
       "1 costillar",
       "1 lata de Coca-Cola",
@@ -207,7 +209,7 @@
     "title": "Filetes rellenos",
     "ingredients": [
       "Filetes finos de redondo de ternera, o de tapa. Lo importante es que no tengan huecos",
-      "1 loncha de bacón adobado por filete",
+      "1 loncha de bacón adobado por filete, o panceta",
       "dos o tres aceitunas sin hueso por filete",
       "2 huevos o tres huevos",
       "1 o 1 y media cebollas",
@@ -254,7 +256,8 @@
       "Se añade el Orlando (generosamente) y se deja un ratito.",
       "Luego se añade el vino blanco. Por último el azúcar. Se remueve bien todo ello rascando el fondo de la sartén."
     ],
-    "footnote": "Este plato es ideal para comer con tallarines (70 gr. por persona), como plato único. Se mezcla bien con la cebolla."
+    "footnote": "Este plato es ideal para comer con tallarines (70 gr. por persona), como plato único. Se mezcla bien con la cebolla.",
+    "image": "filetes-rusos.jpeg"
   },
   {
     "title": "Jibias en su tinta",
@@ -417,6 +420,29 @@
       "Batimos los huevos en un cuenco, y cuando estén la patata y la cebolla listas, las ponemos en ese cuenco, bien escurridas.",
       "Probar de sal y corregir.",
       "Cuajar un poco la tortilla por los dos lados."
+    ]
+  },
+  {
+    "title": "Pollo guisado de mamá",
+    "ingredients": [
+      "aceite",
+      "pollo troceado (o alitas, o muslitos...)",
+      "ajo",
+      "perejil",
+      "sal",
+      "pimienta negra",
+      "cebolla",
+      "tomate",
+      "pimiento verde"
+    ],
+    "steps": [
+      "Se puede limpiar el pollo y quitar la piel, y revisar el final de las tajadas, que no queden trocitos de hueso",
+      "Poner aceite en el fondo de la cazuela y añadir la cebolla picadita",
+      "Cuando la cebolla empiece a pocharse, añadir el pollo a la cazuela y rehogarlo bien",
+      "Machacar ajo y perejil en el mortero, y se añade con agua",
+      "Salpimentar al gusto",
+      "Añadir tomate y pimiento verde picaditos, y dejar que se haga bien, a fuego medio bajo",
+      "Si se necesita, añadir agua"
     ]
   }
 ]

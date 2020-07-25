@@ -1,6 +1,13 @@
 <h2>{{header}} <span class="badge badge-pill badge-primary">{{list.length}}</span></h2>
     <ul class="list-group">
       {{#each list}}
-        <li class="list-group-item"><a href="{{../path}}/{{slug this.title}}">{{this.title}}</a></li>
+        <li class="list-group-item">
+          <a href="{{../path}}/{{slug this.title}}">
+          {{this.title}} 
+          {{#if this.image}}
+          <i class="far fa-camera"></i>
+          {{/if}}
+          </a>
+        </li>
       {{/each}}
     </ul>
