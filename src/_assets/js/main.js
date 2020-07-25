@@ -7,3 +7,5 @@ import './vendor/popover';
 
 // Bootstrap Tooltip
 import './vendor/tooltip';
+
+import './vendor/fancybox';

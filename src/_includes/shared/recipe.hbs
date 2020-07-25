@@ -37,12 +37,14 @@
 {{#if recipe.image}}
     <div class='row'>
         <div class='col'>
-            <img
-                src="/_assets/img/{{recipe.image}}"
-                alt="{{recipe.title}}"
-                class='img-fluid img-thumbnail'
-                data-toggle='lightbox'
-            />
+            <a href="/_assets/img/{{recipe.image}}" data-fancybox>
+                <img
+                    src="/_assets/img/{{recipe.image}}"
+                    alt="{{recipe.title}}"
+                    class='img-fluid img-thumbnail'
+                    data-toggle='lightbox'
+                />
+            </a>
         </div>
     </div>
 {{/if}}
