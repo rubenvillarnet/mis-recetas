@@ -3,18 +3,18 @@ layout: default
 ---
 <div class="row">
   <div class="mb-4 col-12 col-lg-3">
-    {{> shared/list header="Primeros" list=primeros path=site.paths.primeros}}
+    {{> shared/list header="Primeros" list=sortedPrimeros path=site.paths.primeros}}
   </div>
 
   <div class="mb-4 col-12 col-lg-3">
-    {{> shared/list header="Segundos" list=segundos path=site.paths.segundos}}
+    {{> shared/list header="Segundos" list=sortedSegundos path=site.paths.segundos}}
   </div>
 
   <div class="mb-4 col-12 col-lg-3">
-    {{> shared/list header="Postres" list=postres path=site.paths.postres}}
+    {{> shared/list header="Postres" list=sortedPostres path=site.paths.postres}}
   </div>
 
   <div class="mb-4 col-12 col-lg-3">
-    {{> shared/list header="Salsas" list=salsas path=site.paths.salsas}}
+    {{> shared/list header="Salsas" list=sortedSalsas path=site.paths.salsas}}
   </div>
 </div>
