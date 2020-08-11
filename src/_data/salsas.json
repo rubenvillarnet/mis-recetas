@@ -9,7 +9,7 @@
             "Batidora (disco de cuchillas)"
         ],
         "steps": [
-            "Poner todo en el vaso de la batidora, meter la batidora hasta el fondo y no moverla, hasta que la mayonesa esté casi hecha. Entonces ya sí se mueve ligeramente.",
+            "Poner en el vaso de la batidora primero el huevo, luego el aceite, y la puntita de sal y el vinagre a continuacion. Meter la batidora hasta el fondo y no moverla, hasta que la mayonesa esté casi hecha. Entonces ya sí se mueve ligeramente.",
             "Si se corta (es decir, que no cuaja, se queda líquida, pero no mala) se suele arreglar echando más aceite. Si no se consigue arreglar, mejor tirarla y hacerla de nuevo."
         ]
     },
@@ -35,7 +35,10 @@
     },
     {
         "title": "Cómo embotar",
-        "ingredients": ["Botes", "Cazuela alta"],
+        "ingredients": [
+            "Botes",
+            "Cazuela alta"
+        ],
         "steps": [
             "Se echa al bote el producto a embotar, se llena a tope, y se cierra bien.",
             "Se ponen todos los botes en una cazuela con agua, que estén cubiertos por completo.",
