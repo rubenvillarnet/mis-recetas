@@ -13,7 +13,8 @@
       "Se abren los botes de alcachofas y reservamos el líquido. Partimos las alcachofas por la mitad. Se añaden ahora las alcachofas a la cebolla con la parte cortada hacia abajo.",
       "Se añade el agua de las alcachofas y media cucharadita de harina tamizada, para que no queden grumos, y espese un poco la salsa. Se añaden los tacos de jamón y se deja un par de minutos."
     ],
-    "footnote": "No se añade sal, el jamón y las alcachofas con el caldo ya llevan sal."
+    "footnote": "No se añade sal, el jamón y las alcachofas con el caldo ya llevan sal.",
+    "image": "alcachofas-ru-style.jpg"
   },
   {
     "title": "Pastel de puerros",
@@ -242,8 +243,11 @@
     "steps": [
       "Mojar el pan, y cubrirlo con un trapo limpio, para que todo ello se humedezca y reblandezca.",
       "Cuando esté suficientemente blandito, picar con una tijera.",
-      "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan. Remover constantemente mientras se cocinan (se pegan fácilmente). Añadir la sal a mitad del proceso."
-    ]
+      "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan." 
+      "Remover constantemente mientras se cocinan (se pegan fácilmente)."
+       "Añadir la sal a mitad del proceso."
+    ],
+    "image": "migas-chorizo.jpg"
   },
   {
     "title": "Ñoquis con salsa Roquefort",
