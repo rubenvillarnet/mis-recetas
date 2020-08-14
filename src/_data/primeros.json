@@ -243,9 +243,9 @@
     "steps": [
       "Mojar el pan, y cubrirlo con un trapo limpio, para que todo ello se humedezca y reblandezca.",
       "Cuando esté suficientemente blandito, picar con una tijera.",
-      "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan." 
-      "Remover constantemente mientras se cocinan (se pegan fácilmente)."
-       "Añadir la sal a mitad del proceso."
+      "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan.",
+      "Remover constantemente mientras se cocinan (se pegan fácilmente).",
+      "Añadir la sal a mitad del proceso."
     ],
     "image": "migas-chorizo.jpg"
   },
@@ -313,7 +313,7 @@
     "image": "carbonara-philadelphia.jpg"
   },
   {
-    "title": "patatas a la Einstein",
+    "title": "Patatas a la Einstein",
     "ingredientsLabel": "dos raciones plato único",
     "ingredients": [
       "Puré de patatas instantáneo",
@@ -337,7 +337,7 @@
     "image": "patatas-einstein.jpg"
   },
   {
-    "title": "patatas a la importancia",
+    "title": "Patatas a la importancia",
     "ingredients": [
       "Patatas",
       "Harina",
@@ -361,7 +361,7 @@
     ]
   },
   {
-    "title": "patatas guisadas",
+    "title": "Patatas guisadas",
     "ingredients": [
       "Patatas",
       "Choricillo fresco o picadillo",
@@ -470,7 +470,7 @@
     "footnote": "Opcional: freír bacón en tiras a la hora de comerlo, y añadirlo en el centro de cada plato."
   },
   {
-    "title": "sopa de verduras",
+    "title": "Sopa de verduras",
     "ingredients": [
       "Sopa juliana de Alimerka (350gr.) con zanahoria, repollo, berza, puerro y apio.",
       "2 pastillas de Avecrem",
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "title": "sopas de ajo",
+    "title": "Sopas de ajo",
     "ingredients": [
       "4 ajos",
       "1 choricillo fresco",
